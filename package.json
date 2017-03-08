@@ -1,0 +1,36 @@
+{
+  "name": "audio-player",
+  "version": "1.0.0",
+  "description": "playing sounds made easy",
+  "main": "audio-player.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedvdb/AudioPlayer.git"
+  },
+  "keywords": [
+    "javascript",
+    "audio",
+    "player",
+    "angular",
+    "2",
+    "midi",
+    "sound",
+    "soundfonts"
+  ],
+  "author": "cedvdb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedvdb/AudioPlayer/issues"
+  },
+  "homepage": "https://github.com/cedvdb/AudioPlayer#readme",
+  "devDependencies": {
+    "@types/node-fetch": "^1.6.7",
+    "ts-loader": "^1.3.3",
+    "typings": "^2.1.0",
+    "webpack": "^2.2.0-rc.3"
+  },
+  "dependencies": {}
+}
